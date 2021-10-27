@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Harshit
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning software stuffs
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me www.itsharshit.com
+- 📫 How to reach me www.itsharshit.com || itsharshit7@gmail.com
 
 <!---
 newacronym/newacronym is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
