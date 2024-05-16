@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Harshit
-- 👀 I’m interested in learning new things
-- 🌱 I’m currently learning software stuffs
+- 👀 Deploying and Building AI applications
 - 📫 How to reach me www.itsharshit.com || harshitgpt2508@gmail.com
 
 <!---
