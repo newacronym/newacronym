@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Harshit
 - 👀 Deploying and Building AI applications
-- 📫 How to reach me www.itsharshit.com || harshitgpt2508@gmail.com
+- 📫 How to reach me harshitgpt2508@gmail.com
 
 <!---
 newacronym/newacronym is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
